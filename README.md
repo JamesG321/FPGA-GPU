@@ -14,11 +14,11 @@ to run the program properly.
 
 ### Prerequisites
 
-Proper installation of Quartus II/[Quartus Prime](https://www.altera.com/downloads/download-center.html)
+[Quartus Prime](https://www.altera.com/downloads/download-center.html)
 
 [Altera De1-SoC-MLT2 Board](https://www.altera.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-4207350307415-de1-soc-mtl2-user-manual.pdf)
 
-See my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit) to have a better understanding of how vga protocols and pixels are rendered on the screen. 
+See my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit) to have a better understanding of how vga protocols and pixels are rendered on the screen. This project used the same principles for the vga interface but was heavily customized to interface with the screen attached to the board.
 
 ## Built With
 
