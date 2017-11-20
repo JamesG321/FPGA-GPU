@@ -12,6 +12,8 @@ Continuation of my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA
 This project is built on the Altera De1-SoC-MLT2 Board. Download the .sv files and compile them on Quartus II, the Altera IDE
 to run the program properly.
 
+See [FPGA-GPU Documentation](https://github.com/JamesG321/FPGA-GPU/blob/master/FPGA-GPU%20Documentation.pdf) for details on the module implementations. 
+
 ### Prerequisites
 
 [Quartus Prime](https://www.altera.com/downloads/download-center.html)
@@ -28,8 +30,7 @@ See my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Proce
 
 Work in progress. Currently implementing GPU math functions (rotation, 3D-2D perspective transform etc.) in GPU functions.sv
 
-Detailed pdf of detailed module implementations will come soon once reached a presentable point of the project.
-
+Pdf documentation of detailed module implementations can be found here:[FPGA-GPU Documentation](https://github.com/JamesG321/FPGA-GPU/blob/master/FPGA-GPU%20Documentation.pdf) Future updates will be done once more progress is made.
 
 ## Authors
 
