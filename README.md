@@ -3,7 +3,7 @@
 
 This project is a work in progress attempting to create a simple GPU using a low-budget FPGA while still having the fundemental structure designs of modern GPUs.
 
-Continuation of my project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit), where I aim to build a Pixel Processing Unit (PPU) used for graphics by the NES, on an FPGA board. This project aims to create hardware that can do real-time graphic processing instead of drawing sprites, at the end goal of creating 3D graphics using modern computer graphic principles.
+Continuation of my project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit), where I built a Pixel Processing Unit (PPU) on an FPGA board. The PPU is used by the Nintendo Entertainment System for graphic processing and was revolutionary at its time. This project aims to create hardware that can do real-time graphic processing instead of drawing sprites, at the end goal of creating 3D graphics using modern computer graphic principles.
 
 
 
