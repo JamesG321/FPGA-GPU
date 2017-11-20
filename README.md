@@ -14,17 +14,11 @@ to run the program properly.
 
 See [FPGA-GPU Documentation](https://github.com/JamesG321/FPGA-GPU/blob/master/FPGA-GPU%20Documentation.pdf) for details on the module implementations. 
 
-### Prerequisites
-
-[Quartus Prime](https://www.altera.com/downloads/download-center.html)
-
-[Altera De1-SoC-MLT2 Board](https://www.altera.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-4207350307415-de1-soc-mtl2-user-manual.pdf)
-
-See my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit) for detailed documentation of how vga protocols and pixels are rendered on the screen. This project used the same principles for the vga interface but was heavily customized to interface with the screen attached to the board.
 
 ## Built With
 
 * [Quartus Prime](https://www.altera.com/downloads/download-center.html)
+* [Altera De1-SoC-MLT2 Board](https://www.altera.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-4207350307415-de1-soc-mtl2-user-manual.pdf)
 
 ## Versioning
 
