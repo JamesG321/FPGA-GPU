@@ -28,6 +28,8 @@ See my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Proce
 
 Work in progress. Currently implementing GPU math functions (rotation, 3D-2D perspective transform etc.) in GPU functions.sv
 
+Detailed pdf of detailed module implementations will come soon once reached a presentable point of the project.
+
 
 ## Authors
 
