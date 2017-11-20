@@ -1,8 +1,11 @@
-# Project Title
+# FPGA-GPU
 
-FPGA-GPU
 
 This project is a work in progress attempting to create a simple GPU using a low-budget FPGA while still having the fundemental structure designs of modern GPUs.
+
+Continuation of my project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit), where I aim to build a Pixel Processing Unit (PPU) used for graphics by the NES, on an FPGA board. This project aims to create hardware that can do real-time graphic processing instead of drawing sprites, at the end goal of creating 3D graphics using modern computer graphic principles.
+
+
 
 ## Getting Started
 
@@ -15,6 +18,7 @@ Proper installation of Quartus II/[Quartus Prime](https://www.altera.com/downloa
 
 [Altera De1-SoC-MLT2 Board](https://www.altera.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-4207350307415-de1-soc-mtl2-user-manual.pdf)
 
+See my previous project [FPGA-PPU](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit) to have a better understanding of how vga protocols and pixels are rendered on the screen. 
 
 ## Built With
 
@@ -23,6 +27,7 @@ Proper installation of Quartus II/[Quartus Prime](https://www.altera.com/downloa
 ## Versioning
 
 Work in progress. Currently implementing GPU math functions (rotation, 3D-2D perspective transform etc.) in GPU functions.sv
+
 
 ## Authors
 
