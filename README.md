@@ -22,7 +22,7 @@ Proper installation of Quartus II/[Quartus Prime](https://www.altera.com/downloa
 
 ## Versioning
 
-Work in progress. Currently implementing GPU functions in GPU functions.sv
+Work in progress. Currently implementing GPU math functions (rotation, 3D-2D perspective transform etc.) in GPU functions.sv
 
 ## Authors
 
